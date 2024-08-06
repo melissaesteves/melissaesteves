@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melissaesteves
-- 👀 I’m interested in music, books and series
-- 🌱 I’m currently learning English
-- 😄 Pronouns: She - Her
+# 👋 Oi, meu nome é Melissa!
+- 👀 Gosto de música, livros e séries.
+- 🌱 Atualmente estou aprendendo mais sobre tecnologia e a língua inglesa
+- 😄 Pronomes: Ela - Dela
